@@ -1,0 +1,16 @@
+{
+  "name": "USmacro_small-statprior_var",
+  "model_name": "statprior_var",
+  "data_name": "USmacro_small",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "A": [4, 3, 3],
+    "Sigma": [3, 3],
+    "Amu": [2, 4],
+    "Aomega": [2, 4],
+    "phi": [4, 3, 3],
+    "Gamma": [12, 12]
+  },
+  "added_by": "Gerald Press",
+  "added_date": "2026-07-28"
+}

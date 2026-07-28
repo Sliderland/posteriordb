@@ -1,0 +1,15 @@
+{
+  "name": "statprior_var",
+  "keywords": ["exchangeable", "stationary", "VAR", "Vector Autoregressive", "Vector Autoregression", "BVAR"],
+  "title": "Stationary Exchangeable VAR Model",
+  "description": "A stationary, exchangeable prior that ensures stationarity in a VAR model. Maps VAR coefficients to partial autocorrelations and reverses the mapping",
+  "urls": "https://doi.org/10.1080/10618600.2022.2079648",
+  "references": "heaps2023stationary",
+  "added_by": "Gerald Press",
+  "added_date": "2026-07-28",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/statprior_var.stan"
+    }
+  }
+}
