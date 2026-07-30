@@ -2,7 +2,7 @@
   "name": "USmacro_small-statprior_var",
   "model_name": "statprior_var",
   "data_name": "USmacro_small",
-  "reference_posterior_name": null,
+  "reference_posterior_name": "USmacro_small-statprior_var",
   "dimensions": {
     "A": [4, 3, 3],
     "Sigma": [3, 3],
