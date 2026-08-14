@@ -12,6 +12,8 @@ python/build*
 sandbox/*
 TODO.tdl
 .Rhistory
+.DS_Store
+*/.DS_Store
 *.exe
 *.hpp
 *.dll
