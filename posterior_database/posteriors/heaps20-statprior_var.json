@@ -1,0 +1,16 @@
+{
+  "name": "heaps20-statprior_var",
+  "model_name": "statprior_var",
+  "data_name": "heaps20",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "A": [4, 20, 20],
+    "Sigma": [20, 20],
+    "Amu": [2, 4],
+    "Aomega": [2, 4],
+    "phi": [4, 20, 20],
+    "Gamma": [80, 80]
+  },
+  "added_by": "Gerald Press",
+  "added_date": "2026-08-28"
+}

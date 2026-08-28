@@ -1,0 +1,11 @@
+{
+  "name": "heaps3",
+  "keywords": ["United States", "US", "Economics", "Macroeconomy", "Macroeconomics", "Vector Autoregression", "BVAR", "VAR", "Small VAR", "Small", "Quarterly"],
+  "title": "Small Vector Autoregressive Data (n = 3, p = 4)",
+  "description": "Quarterly US Macro-economic data. A small, pre-transformed, vector autoregressive dataset for testing Vector Autoregressive Models. 3 Variables, 4 Lags.",
+  "urls": "https://tandf.figshare.com/articles/dataset/Enforcing_stationarity_through_the_prior_in_vector_autoregressions/19831250/2",
+  "references": "heaps2023stationary",
+  "added_date": "2026-08-28",
+  "added_by": "Gerald Press",
+  "data_file": "data/data/heaps3.json"
+}
