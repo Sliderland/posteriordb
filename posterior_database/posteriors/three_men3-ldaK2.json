@@ -1,12 +1,9 @@
 {
-  "keywords": [
-    "multimodal",
-    "text data"
-  ],
+  "keywords": ["multimodal", "text data"],
   "references": "jonasson2021rapid",
   "dimensions": {
-    "theta": 9,
-    "phi": 496
+    "theta": 18,
+    "phi": 498
   },
   "reference_posterior_name": null,
   "added_date": "2021-02-26",
