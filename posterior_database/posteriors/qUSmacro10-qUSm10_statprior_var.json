@@ -2,7 +2,7 @@
   "name": "qUSmacro10-qUSm10_statprior_var",
   "model_name": "qUSm10_statprior_var",
   "data_name": "qUSmacro10",
-  "reference_posterior_name": null,
+  "reference_posterior_name": "qUSmacro10-qUSm10_statprior_var",
   "dimensions": {
     "A": 400,
     "Sigma": 55,
@@ -11,6 +11,6 @@
   },
   "references": "heaps2023stationary",
   "added_by": "Gerald Press",
-  "added_date": "2026-10-06",
+  "added_date": "2026-10-07",
   "keywords": null
 }
