@@ -1,0 +1,14 @@
+{
+  "name": "qUSmacro3-ansleykohn_var",
+  "model_name": "ansleykohn_var",
+  "data_name": "qUSmacro3",
+  "reference_posterior_name": null,
+  "dimensions": {
+    "A": 36,
+    "Sigma": 6
+  },
+  "references": "heaps2023stationary",
+  "added_by": "Gerald Press",
+  "added_date": "2026-10-07",
+  "keywords": null
+}

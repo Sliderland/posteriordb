@@ -3,7 +3,7 @@
   "data_file": "data/data/qUSmacro3.json",
   "title": "US macroeconomic data: Heaps subset with 3 variables",
   "added_by": "Gerald Press",
-  "added_date": "2026-10-06",
+  "added_date": "2026-10-07",
   "references": ["koop2013forecasting", "heaps2023stationary"],
   "description": "US macroeconomic data described in Koop (2013), using the source files and preprocessing supplied by Heaps (2023). Monthly series are averaged into quarters; the combined series are transformed using the supplied log/differencing codes and standardized. Standardized quarterly US macroeconomic observations with 3 variables, fixed VAR order p = 4. Stan input contains observations and dimensions; fixed prior hyperparameters are defined in the model.",
   "urls": ["https://doi.org/10.1002/jae.1270", "https://tandf.figshare.com/articles/dataset/Enforcing_stationarity_through_the_prior_in_vector_autoregressions/19831250/2"],

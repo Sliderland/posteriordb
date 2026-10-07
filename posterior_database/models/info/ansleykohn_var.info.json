@@ -1,0 +1,16 @@
+{
+  "name": "ansleykohn_var",
+  "title": "Stationary Ansley-Kohn VAR(p) Model",
+  "description": "A stationary VAR using the Ansley and Kohn (1986) partial-autocorrelation reparameterization; no explicit proper prior is added.",
+  "keywords": ["stationary", "Ansley-Kohn", "VAR", "flat prior"],
+  "urls": "https://doi.org/10.1080/10618600.2022.2079648",
+  "references": "heaps2023stationary",
+  "added_by": "Gerald Press",
+  "added_date": "2026-10-07",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/ansleykohn_var.stan",
+      "stan_version": ">=2.26.0"
+    }
+  }
+}
