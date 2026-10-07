@@ -1,0 +1,14 @@
+{
+  "name": "qUSmacro10-semiconj_var",
+  "model_name": "semiconj_var",
+  "data_name": "qUSmacro10",
+  "reference_posterior_name": "qUSmacro10-semiconj_var",
+  "dimensions": {
+    "phi": 400,
+    "Sigma": 55
+  },
+  "references": "heaps2023stationary",
+  "added_by": "Gerald Press",
+  "added_date": "2026-10-06",
+  "keywords": null
+}

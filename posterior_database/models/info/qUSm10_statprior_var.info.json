@@ -1,0 +1,16 @@
+{
+  "name": "qUSm10_statprior_var",
+  "title": "Stationary Exchangeable VAR(p): Heaps Ten/Twenty-Variable Prior",
+  "description": "A stationary VAR using the exchangeable partial-autocorrelation prior from Section 3.2 of Heaps (2023), with fixed m = 10, 20 application hyperparameters from supplement S6.2: e = 0, f = sqrt(0.700), g = 2.100, h = 0.333; Sigma ~ IW(m + 4, I).",
+  "keywords": ["stationary", "exchangeable", "VAR", "BVAR"],
+  "urls": "https://doi.org/10.1080/10618600.2022.2079648",
+  "references": "heaps2023stationary",
+  "added_by": "Gerald Press",
+  "added_date": "2026-10-06",
+  "model_implementations": {
+    "stan": {
+      "model_code": "models/stan/qUSm10_statprior_var.stan",
+      "stan_version": ">=2.26.0"
+    }
+  }
+}
