@@ -32,7 +32,8 @@
     "abs_mean_lag1_ac_below_0_05": true,
     "r_hat_below_1_01": true,
     "efmi_above_0_2": true,
-    "no_divergent_transitions": true
+    "no_divergent_transitions": true,
+    "ess_within_bounds": false
   },
   "comments": "Staged bundle sampling for qUSmacro10-semiconj_var",
   "added_by": "Gerald Press",
