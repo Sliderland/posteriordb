@@ -2,6 +2,7 @@
 name: check_posteriordb_content
 
 on:
+  workflow_dispatch: 
   push:
     branches:
       - master
